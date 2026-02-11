@@ -84,11 +84,7 @@ Engineering + AI is the future — and I’m building in that direction.
 
 ## 📫 Connect With Me  
 
-- 🌍 Based in Algeria  <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZucTBscHdsNmhtN2p4c2w1cWdqZm40ZzA0ZDFnNG02ZXE2dXduOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dXu9SnGRYhUVQXPMbF/giphy.gif"
-       width="60" height="40"
-       style="vertical-align:middle; margin-left: 15px;" />
-</p>
+- 🌍 Based in Algeria <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZucTBscHdsNmhtN2p4c2w1cWdqZm40ZzA0ZDFnNG02ZXE2dXduOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dXu9SnGRYhUVQXPMbF/giphy.gif>
 - 💼 Open to collaborations on AI & Full-Stack projects  
 - 🚀 Always building something new  
 
