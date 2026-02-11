@@ -30,7 +30,7 @@ I believe in combining **engineering logic + software development + AI systems**
 - 📊 Scalable backend architectures  
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,mysql,react,js,html,css,bootstrap,wordpress,python,cpp,arduino,java,netbeans,jira,spyder,anaconda,vscode&theme=light)](https://skillicons.dev)
+
 
 ## 🛠️ Tech Stack  
 
