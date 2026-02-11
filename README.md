@@ -60,13 +60,13 @@ I believe in combining **engineering logic + software development + AI systems**
 ---
 
 ### ⚡ Tools & Environment
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) 
-[![NetBeans](https://skillicons.dev/icons?i=netbeans)](https://skillicons.dev) 
-[![Jira](https://skillicons.dev/icons?i=jira)](https://skillicons.dev) 
-[![Spyder IDE](https://skillicons.dev/icons?i=spyder)](https://skillicons.dev) 
-[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev) 
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Spyder IDE](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
