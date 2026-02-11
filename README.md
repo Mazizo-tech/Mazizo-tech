@@ -50,7 +50,7 @@ I believe in combining **engineering logic + software development + AI systems**
 
 
 ### 🤖 AI & Automation  
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
