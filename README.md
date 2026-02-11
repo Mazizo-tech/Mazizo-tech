@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mazizo</h1>
-<h3 align="center">a Mechatronics student and full-stack app developer from Alger.Ienjoy building smart, scalable digital systems and turning complex ideas into simple, practical solutions powered by AI-driven automation.</h3>
+<h1 align="center">Hi 👋,</h1>
+<h3 align="center"> I'm Mazizoa Mechatronics student and full-stack app developer from Alger.Ienjoy building smart, scalable digital systems and turning complex ideas into simple, practical solutions powered by AI-driven automation.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
