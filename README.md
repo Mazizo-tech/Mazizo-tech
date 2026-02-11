@@ -1,5 +1,5 @@
 #  Hi, I'm Mazizoa  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A211&width=435&lines=Welcome+to+my+GitHub+profile!;Engineering+%2B+AI+%3D+Future+Innovation;Building+Smart%2C+Scalable+%26+Intelligent+Systems" alt="Typing SVG" /></a>
 ### 🚀 Mechatronics Student | AI & Machine Learning Enthusiast | Full-Stack App Developer  
 
 I'm a Mechatronics student and full-stack application developer from Algeria.  
