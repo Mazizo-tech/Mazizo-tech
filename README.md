@@ -6,6 +6,12 @@ I'm a Mechatronics student and full-stack application developer from Algeria.
 I enjoy building smart, scalable digital systems and turning complex ideas into simple, practical solutions powered by AI-driven .
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Engineering+%2B+AI+%3D+Future+Innovation;Building+Smart+%2C+Scalable+%26+Intelligent+Systems" 
+       style="vertical-align:middle;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Algeria.gif" 
+       width="60" height="40" style="vertical-align:middle; margin-left: 15px;" />
+</p>
 
 ## 🧠 About Me  
 
